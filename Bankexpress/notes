@@ -1,0 +1,19 @@
+-------Routes
+get allClients
+get single client
+delete allClients
+delete single client
+addClient
+editClient
+withdraw
+addBalance
+
+---------views
+addUser
+showAll-delete-deleteAll
+editClient
+showSingle
+withdraw
+addBalance
+
+---Layouts =>header,navbar,footer
